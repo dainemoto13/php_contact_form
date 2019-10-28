@@ -1,0 +1,39 @@
+.content1 {
+  width: 400px; height: 50px;
+  border: solid #008080;
+  }
+
+.i {
+  background-image: url(../img/a.jpg);
+  background-size:cover;
+  height:500px;
+  text-align:center;
+  padding:200px;
+  color:white;
+}
+
+.label{
+  border: 2px solid #006dd9;
+  width: 100%;
+  }
+
+  .label p{
+  text-align: center;
+  padding: 5px 5px;
+  }
+
+  .small-label{
+    padding-left:70px;
+  }
+
+img {
+    border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    width:  50px;       /* ※縦横を同値に */
+    height: 50px;       /* ※縦横を同値に */
+}
+.background {
+  height:200px;
+  width:100%;
+  padding:100px;
+  color:white;
+}
